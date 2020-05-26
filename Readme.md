@@ -12,10 +12,7 @@
 yarn install
 
 # start the json-server api
-yarn api:server
-
-# start the app on a new terminal window
-yarn start
+yarn dev
 ```
 
 Runs the app in development mode.<br>
