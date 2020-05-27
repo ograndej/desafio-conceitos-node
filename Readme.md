@@ -16,7 +16,7 @@ yarn dev
 ```
 
 Runs the app in development mode.<br>
-Open [http://localhost:3000/repositories](http://localhost:3000/repositories) to view it in the browser.
+Open [http://localhost:3333/repositories](http://localhost:3333/repositories) to view it in the browser.
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/gobarber-api/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/ograndej/desafio-conceitos-node/blob/master/LICENSE) for more information.
 
 ---
 
